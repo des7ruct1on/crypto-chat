@@ -1,0 +1,9 @@
+*.db
+
+*.log
+
+*.md
+
+.env
+
+local_data
